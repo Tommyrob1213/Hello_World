@@ -10,8 +10,8 @@
 ## **Project Title**
 
 ## **Description**
-- [CURRENT PROJECT DESCRIPTION]
-- [PREVIOUS PROJECT DESCRIPTIONS]
+- CURRENT PROJECT DESCRIPTION
+- PREVIOUS PROJECT DESCRIPTIONS
 ## **How to run Program**
 
 ## **Files Used**
